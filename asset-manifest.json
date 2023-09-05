@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.6c03f4ed.js",
+    "main.js": "/static/js/main.5d539eef.js",
     "static/media/rotating-card-bg-front.jpeg": "/static/media/rotating-card-bg-front.bdcdfadc0dacb9bc5f23.jpeg",
     "static/media/bg-presentation.jpg": "/static/media/bg-presentation.b96086a589ffa3d9a6cc.jpg",
     "static/media/macbook.png": "/static/media/macbook.e0a8c5d5cc02d71b6d86.png",
@@ -22,20 +22,23 @@
     "static/media/team-3.jpg": "/static/media/team-3.0ef0be95e6850814c79e.jpg",
     "static/media/ivana-square.jpg": "/static/media/ivana-square.f7bc23b269d1d2509c82.jpg",
     "static/media/ivana-squares.jpg": "/static/media/ivana-squares.3c555b856b04c2ab921b.jpg",
+    "static/media/brex.png": "/static/media/brex.73d1cd6e9c8c7cee3d02.png",
     "static/media/team-4.jpg": "/static/media/team-4.85c82b6e60178804017f.jpg",
     "static/media/logo-digitalocean.svg": "/static/media/logo-digitalocean.a1f147b01387952368e3180edf221c96.svg",
+    "static/media/google-for-startups.webp": "/static/media/google-for-startups.a900d26ec82e26cd9f37.webp",
     "static/media/logo-pinterest.svg": "/static/media/logo-pinterest.844709031a3c1266979e933c371e043a.svg",
     "static/media/logo-vodafone.svg": "/static/media/logo-vodafone.b3e8486c0cac220bc3a31c9eab049b21.svg",
     "static/media/logo-spotify.svg": "/static/media/logo-spotify.7e255dc67938d13ff97cc8f16812d325.svg",
+    "static/media/godaddy.webp": "/static/media/godaddy.ca6d018dc37d5a047bf2.webp",
     "static/media/logo-facebook.svg": "/static/media/logo-facebook.106d2ac0ece089e3c6def0a36c283ef7.svg",
     "static/media/logo-coinbase.svg": "/static/media/logo-coinbase.87e91c7f318f2d82f46e78469976128b.svg",
     "static/media/logo-apple.svg": "/static/media/logo-apple.f9c2682e61da98dfbc703a4dccd0d064.svg",
     "static/media/logo-nasa.svg": "/static/media/logo-nasa.c5d11f8820bfde5fd64db0074156e06c.svg",
     "static/media/logo-netflix.svg": "/static/media/logo-netflix.432ed6b5c31b9bcab9a38e32bf46a1e9.svg",
     "index.html": "/index.html",
-    "main.6c03f4ed.js.map": "/static/js/main.6c03f4ed.js.map"
+    "main.5d539eef.js.map": "/static/js/main.5d539eef.js.map"
   },
   "entrypoints": [
-    "static/js/main.6c03f4ed.js"
+    "static/js/main.5d539eef.js"
   ]
 }
