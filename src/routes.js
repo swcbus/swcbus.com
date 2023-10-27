@@ -72,18 +72,17 @@ const routes = [
     {
     name: "Judges",
     icon: <Icon>dashboard</Icon>,
-    href: "/judges",
+    href: "https://swcbus.com/judges.pdf",
     },
   {
     name: "Mentors",
     icon: <Icon>dashboard</Icon>,
-    href: "https://www.github.com/creativetimofficial/material-kit-react",
-    target: "blank",
+    href: "https://swcbus.com/mentors.pdf",
    },
     {
     name: "Organizing Team",
     icon: <Icon>dashboard</Icon>,
-    href: "Team",
+    href: "https://swcbus.com/organizers.pdf",
    },
 ];
 
