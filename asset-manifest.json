@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.2a00354a.js",
+    "main.js": "/static/js/main.79fded5e.js",
     "static/media/rotating-card-bg-front.jpeg": "/static/media/rotating-card-bg-front.bdcdfadc0dacb9bc5f23.jpeg",
     "static/media/bg-presentation.jpg": "/static/media/bg-presentation.b96086a589ffa3d9a6cc.jpg",
     "static/media/macbook.png": "/static/media/macbook.e0a8c5d5cc02d71b6d86.png",
@@ -34,9 +34,9 @@
     "static/media/logo-apple.svg": "/static/media/logo-apple.f9c2682e61da98dfbc703a4dccd0d064.svg",
     "static/media/logo-nasa.svg": "/static/media/logo-nasa.c5d11f8820bfde5fd64db0074156e06c.svg",
     "index.html": "/index.html",
-    "main.2a00354a.js.map": "/static/js/main.2a00354a.js.map"
+    "main.79fded5e.js.map": "/static/js/main.79fded5e.js.map"
   },
   "entrypoints": [
-    "static/js/main.2a00354a.js"
+    "static/js/main.79fded5e.js"
   ]
 }
